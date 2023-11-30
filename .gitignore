@@ -1,0 +1,7 @@
+data/
+.idea
+venv/
+.venv/
+notebooks/.ipynb_checkpoints
+notebooks/data
+notebooks/results

@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+easydict
+einops
+jupyter
+matplotlib
+datasets
